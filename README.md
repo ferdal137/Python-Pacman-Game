@@ -1,5 +1,5 @@
 # Python_Pacman_Game
-### Welcome to the Pacman Game repository! This project was developed as the final project for a basic Python course. It is a classic arcade game where the player controls Pacman, a yellow character that navigates a maze, collects pellets, and avoids ghosts.
+This project was developed as the final project for a basic Python course. It is a classic arcade game where the player controls Pacman, a yellow character that navigates a maze, collects pellets, and avoids ghosts.
 
 <div align="center"><img src="https://github.com/ferdal137/Python-Pacman-Game/blob/main/img/Game_Image.png?raw=true" width="502" height="528" /></div>
 
@@ -24,13 +24,13 @@ In this Pacman game, your goal is to control Pacman and navigate through a maze,
 Use the arrow keys on your keyboard to control the movement of Pacman:
 
 
-Up Arrow: Move Up
+- Up Arrow: Move Up
 
-Down Arrow: Move Down
+- Down Arrow: Move Down
 
-Left Arrow: Move Left
+- Left Arrow: Move Left
 
-Right Arrow: Move Right
+- Right Arrow: Move Right
 
 ## Features
 This Pacman game offers the following features:
@@ -45,5 +45,3 @@ This Pacman game offers the following features:
 - Score tracking to keep track of the number of pellets eaten.
   
 - Game over screen with the final score.
-
-*Have fun playing the Pacman Game!*
